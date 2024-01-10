@@ -1,3 +1,3 @@
 # SDU_courses_choose
 本python脚本是用于山东大学正选或退补选抢课
-先创建一个空的python文件，将main文件中的代码复制过去，按照main文件之中的提示对代码进行修改即可进行选课
+先创建一个空的python文件，将courses_choose文件中的代码复制过去，按照courses_choose文件之中的提示对代码进行修改即可进行选课
